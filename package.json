@@ -1,0 +1,35 @@
+{
+  "name": "rbx-url",
+  "version": "1.0.0",
+  "description": "Generate Roblox Player URL for any game you want.",
+  "main": "dist/module.js",
+  "scripts": {
+    "test": "tsc && node dist/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micorksen/rbx-url.git"
+  },
+  "keywords": [
+    "roblox",
+    "roblox",
+    "url",
+    "roblox",
+    "player"
+  ],
+  "dependencies": {
+    "axios": "^0.26.1",
+    "noblox.js": "^4.13.1",
+    "open": "^8.4.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node17": "^1.0.0",
+    "typescript": "^4.6.2"
+  },
+  "author": "Micorksen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Micorksen/rbx-url/issues"
+  },
+  "homepage": "https://github.com/Micorksen/rbx-url#readme"
+}
